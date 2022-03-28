@@ -13,3 +13,6 @@ $ cd myapp
 $ npm intall
 $ ng serve
 ```
+
+The result on : 
+http://localhost:4200
